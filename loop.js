@@ -20,7 +20,7 @@ module.exports.run = async (client) =>{
             .setTimestamp()
             .setFooter("SkorpedBOT • @ImSkorped")
 
-    client.channels.get("490350112451592193").send(mensagem1);
+    client.channels.get("487686130935005195").send(mensagem1);
     
 
     await sleep(600000)
@@ -34,7 +34,7 @@ module.exports.run = async (client) =>{
             .setTimestamp()
             .setFooter("SkorpedBOT • @ImSkorped")
 
-    client.channels.get("490350112451592193").send(mensagem2);
+    client.channels.get("487686130935005195").send(mensagem2);
 
     await sleep(600000)
 
@@ -47,7 +47,7 @@ module.exports.run = async (client) =>{
             .setTimestamp()
             .setFooter("SkorpedBOT • @ImSkorped")
 
-    client.channels.get("490350112451592193").send(mensagem3);
+    client.channels.get("487686130935005195").send(mensagem3);
     
 
     await sleep(600000)
@@ -61,7 +61,7 @@ module.exports.run = async (client) =>{
             .setTimestamp()
             .setFooter("SkorpedBOT • @ImSkorped")
 
-    client.channels.get("490350112451592193").send(mensagem4);
+    client.channels.get("487686130935005195").send(mensagem4);
 
     await sleep(600000)
 
@@ -74,7 +74,7 @@ module.exports.run = async (client) =>{
             .setTimestamp()
             .setFooter("SkorpedBOT • @ImSkorped")
 
-    client.channels.get("490350112451592193").send(mensagem5);
+    client.channels.get("487686130935005195").send(mensagem5);
     
     
     }
